@@ -1,0 +1,12 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color :rgb(20, 225, 123);
+    justify-content:center ;
+}
